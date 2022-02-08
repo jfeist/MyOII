@@ -1,5 +1,4 @@
 numpy
-matplotlib
 scipy
-ipywidgets
-ipympl
+bokeh
+colorcet

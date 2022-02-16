@@ -1,3 +1,3 @@
-# Mecánica y Ondas II (2019-2020)
+# Mecánica y Ondas II
 
-Correr notebook online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfeist/MyOII_2020/HEAD?urlpath=notebooks/coupled_harmonic_oscillators.ipynb)
+Correr notebooks online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfeist/MyOII_2020/HEAD?urlpath=tree)

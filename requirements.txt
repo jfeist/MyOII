@@ -2,3 +2,4 @@ numpy
 scipy
 bokeh
 colorcet
+jupyter_contrib_nbextensions
